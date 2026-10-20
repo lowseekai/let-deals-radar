@@ -1,13 +1,45 @@
+<div align="center">
+
 # letdeals — VPS 优惠聚合雷达
 
 自动抓取 **LowEndTalk Offers** 与 **LowEndBox** 的 VPS 优惠，抽取规格、价格、
 折扣力度与**库存状态**，生成可部署的静态站。
 
-**零运行时依赖**（仅 Python 标准库），产物是纯静态文件。
+**零运行时依赖**（仅 Python 标准库）· 产物是纯静态文件
 
-![总览示例](preview.png)
+[![在线体验](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C-vps.lowseek.ai-2563eb?style=for-the-badge)](https://vps.lowseek.ai)
+[![论坛](https://img.shields.io/badge/%E8%AE%BA%E5%9D%9B-lowseek.ai-16a34a?style=for-the-badge)](https://lowseek.ai/)
+[![TG 群](https://img.shields.io/badge/TG%20%E7%BE%A4-LowSeekChat-0ea5e9?style=for-the-badge&logo=telegram)](https://t.me/LowSeekChat)
+[![协议](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-MIT-yellow?style=for-the-badge)](LICENSE)
 
-> 本项目在 [LINUX DO](https://linux.do) 社区交流与推广。
+</div>
+
+---
+
+## 📍 相关地址
+
+| 用途 | 地址 |
+|---|---|
+| **在线站点** | https://vps.lowseek.ai |
+| **论坛** | https://lowseek.ai/ |
+| **TG 群** | https://t.me/LowSeekChat |
+| **TG 频道** | https://t.me/LowSeekNews |
+
+---
+
+## 📸 界面预览
+
+![站点总览](docs/site-screenshot.png)
+
+> 一张表看完：厂商、活动性质、折扣力度、配置、旗舰价、**库存状态**、
+> 置信度、发布时间。展开任意一行可看到完整规格、优惠码、机房位置，
+> 以及**库存判断所依据的回帖原文**。
+
+![数据预览](preview.png)
+
+> 上图由 `tools/render_preview.py` 离线渲染，用于在没有浏览器的环境里检查数据。
+
+> 本项目在 [LINUX DO](https://linux.do) 社区交流与推广，
 > 感谢社区佬友的反馈与建议。
 
 ---
