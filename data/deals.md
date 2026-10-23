@@ -1,21 +1,21 @@
 | 来源 | 厂商 | 活动性质 | 力度 | 配置/CPU | 旗舰价 | 状态 | 置信度 |
 |---|---|---|---|---|---|---|---|
+| LET | Infrawire | 上新/回归 | 最高 15% off · 码 LOWENDTALK | 2C/4G/40GNVMe SSD | €8.3/月 | 待确认 | 0.83 |
 | LET | HostDZire | 黑五 | — | 12C/128G/8192GSATA | €18/年 | 待确认 | 0.67 |
-| LET | Halloween VPS @ Frankfurt Equinix | 节日促销 | 循环/永久 | 3C/10G/100G | €31/年 | 待确认 | 0.83 |
-| LET | tpoll | 常规促销 | 循环/永久 · 码 HAS/OCTRYZI92GB | 0G/50GNVME | $16.99/年 | 待确认 | 0.67 |
-| LET | DartNode | 黑五 | 循环/永久 · 最高 30% off · 12 months free · 码 GOOD | 1C/32G/1024GNVMe / Xeon E5-2650 | $399/年 | 待确认 | 1.00 |
 | LET | DeluxHost.net | 补货 | — | 1C/1G/80GNVMe SSD / EPYC 7551P, Ryzen 9 7950X | — | 在售 | 0.67 |
+| LET | Linceris.com | 常规促销 | 循环/永久 · 码 FIRSTORDER50 | 2C/4G/50GNVMe Gen4 / Ryzen 9 9950X | — | 待确认 | 0.83 |
+| LET | 25G Unmetered 30% lifetime discount | 常规促销 | 循环/永久 · 最高 30% off · 码 LETJHUWQ | 384G | $150.5/月 | 售罄 | 0.50 |
+| LET | serverpoint.com | 补货 | 最高 36% off · double bandwidth | 6C / EPYC 7513, EPYC 7663 | $3.33/月 | 在售 | 0.67 |
+| LET | EthernetServers | 常规促销 | free upgrade | — | $2.25/月 | 待确认(较旧) | 0.33 |
+| LET | tpoll | 常规促销 | 循环/永久 · 码 HAS/OCTRYZI92GB | 0G/50GNVME | $16.99/年 | 待确认 | 0.67 |
+| LET | Halloween VPS @ Frankfurt Equinix | 节日促销 | 循环/永久 | 3C/10G/100G | €31/年 | 待确认 | 0.83 |
+| LET | DartNode | 黑五 | 循环/永久 · 最高 30% off · 12 months free · 码 GOOD | 1C/32G/1024GNVMe / Xeon E5-2650 | $399/年 | 待确认 | 1.00 |
 | LET | KVM VPS | 补货 | — | 4C/16G/80G | €6.99/年 | 补货中 | 0.67 |
 | LET | Caliber Node | 常规促销 | — | 15GSSD | $10/年 | 待确认 | 0.33 |
-| LET | Linceris.com | 常规促销 | 循环/永久 · 码 FIRSTORDER50 | 2C/4G/50GNVMe Gen4 / Ryzen 9 9950X | — | 待确认 | 0.83 |
 | LET | ipye.com | 常规帖 | — | 16C/1024GSSD | — | 待确认 | 0.33 |
 | LET | Big RAM Servers | 常规帖 | — | 512GSSD | — | 售罄 | 0.17 |
-| LET | Infrawire | 上新/回归 | 最高 15% off · 码 LOWENDTALK | 2C/4G/40GNVMe SSD | €8.3/月 | 待确认 | 0.83 |
 | LET | quickservers.net | 常规帖 | — | 8C/32G/1638GSSD | $29.99/月 | 售罄 | 0.67 |
-| LET | serverpoint.com | 补货 | 最高 36% off · double bandwidth | 6C / EPYC 7513, EPYC 7663 | $3.33/月 | 在售 | 0.67 |
 | LET | nolimitcloud.eu | 上新/回归 | 循环/永久 · 最高 25% off · 码 LETB25/LETS2026 | 3C/4G/4096GHDD / Xeon E5-2680 | €12.99/年 | 在售 | 1.00 |
-| LET | EthernetServers | 常规促销 | free upgrade | — | $2.25/月 | 待确认(较旧) | 0.33 |
-| LET | 25G Unmetered 30% lifetime discount | 常规促销 | 循环/永久 · 最高 30% off · 码 LETJHUWQ | 384G | $150.5/月 | 售罄 | 0.50 |
 | LET | bgp.sa | 常规帖 | — | 1C/2G | $9.99/月 | 待确认 | 0.50 |
 | LET | VM6 | 常规帖 | — | 4G/100GNVMe / Ryzen 9 9950X | £1.75/月 | 待确认 | 0.67 |
 | LET | hostdare.com | 常规促销 | 循环/永久 · 最高 25% off · double bandwidth+double ram | 2C/2G/50GNVMe SSD | $19.49/年 | 待确认 | 0.83 |
