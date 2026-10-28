@@ -1,6 +1,6 @@
 {
   "source": "LowEndTalk Offers + LowEndBox",
-  "generated_at": "2026-10-27T22:17:18+00:00",
+  "generated_at": "2026-10-28T05:46:44+00:00",
   "count": 83,
   "by_source": {
     "let": 74,
@@ -8,6 +8,79 @@
   },
   "deduped": 0,
   "records": [
+    {
+      "thread_id": "222474",
+      "source": "let",
+      "provider": "Caliber Node",
+      "title": "Caliber Node | Halloween Sale — 7 Days of Cloud Apps, VPS & BYOH Deals + $200 Giveaway!",
+      "url": "https://lowendtalk.com/discussion/222474/caliber-node-halloween-sale-7-days-of-cloud-apps-vps-byoh-deals-200-giveaway",
+      "vendor_url": "https://calibernode.com/cloud-apps#catalog",
+      "author": "CaliberNode",
+      "posted": "Sat, 24 Oct 2026 23:06:37 +0000",
+      "age_days": 3,
+      "age_status": "NEW",
+      "availability": "UNVERIFIED",
+      "replies": {
+        "reply_count": 52,
+        "vendor_reply_count": 4,
+        "status": null,
+        "source": null,
+        "evidence": null,
+        "vendor_signals": [],
+        "fetched_at": "2026-10-28T05:45:15+00:00"
+      },
+      "event_type": "holiday",
+      "discount": {
+        "strength": "码 CHECK/TREAT26",
+        "percent_max": null,
+        "recurring": false,
+        "codes": [
+          "CHECK",
+          "TREAT26"
+        ],
+        "extras": []
+      },
+      "specs": {
+        "vcpu": 2,
+        "ram_gb": 2.0,
+        "storage_gb": 30.0,
+        "storage_type": "unspecified",
+        "bandwidth_tb": null
+      },
+      "specs_all": {
+        "vcpu": [
+          2
+        ],
+        "ram_gb": [
+          2.0
+        ],
+        "storage_gb": [
+          30.0
+        ]
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [],
+      "prices": [
+        {
+          "amount": 8.0,
+          "currency": "$",
+          "cycle": "year"
+        }
+      ],
+      "locations": [
+        "Dallas",
+        "Los Angeles",
+        "Warsaw",
+        "Singapore",
+        "Tokyo"
+      ],
+      "stock_hints": [],
+      "confidence": 0.83,
+      "score": 28,
+      "annual_eur": 7.36,
+      "forum_url": "https://lowseek.ai/d/1678"
+    },
     {
       "thread_id": "222534",
       "source": "let",
@@ -17,17 +90,17 @@
       "vendor_url": null,
       "author": "NDTN",
       "posted": "Mon, 26 Oct 2026 04:11:23 +0000",
-      "age_days": 1,
+      "age_days": 2,
       "age_status": "NEW",
       "availability": "UNVERIFIED",
       "replies": {
-        "reply_count": 35,
+        "reply_count": 46,
         "vendor_reply_count": 0,
         "status": null,
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:04+00:00"
+        "fetched_at": "2026-10-28T05:45:16+00:00"
       },
       "event_type": "anniversary",
       "discount": {
@@ -66,69 +139,74 @@
       "forum_url": null
     },
     {
-      "thread_id": "222269",
+      "thread_id": "221797",
       "source": "let",
-      "provider": "Linceris.com",
-      "title": "Linceris.com - Frankfurt Ryzen 9 9950X KVM VPS | 10Gbps | DataForest DDoS Protection | Free IPs",
-      "url": "https://lowendtalk.com/discussion/222269/linceris-com-frankfurt-ryzen-9-9950x-kvm-vps-10gbps-dataforest-ddos-protection-free-ips",
-      "vendor_url": "https://linceris.com/premium-vps",
-      "author": "YassineB",
-      "posted": "Mon, 19 Oct 2026 14:38:31 +0000",
-      "age_days": 8,
+      "provider": "DeluxHost.net",
+      "title": "DeluxHost.net | VPS Restock | Improved Storage Servers! | Z / T / Q | Highly DDoS Protected | NL",
+      "url": "https://lowendtalk.com/discussion/221797/deluxhost-net-vps-restock-improved-storage-servers-z-t-q-highly-ddos-protected-nl",
+      "vendor_url": "https://deluxhost.net/en/cart?add=storage-1&cycle=monthly&ref=M7U4WHX5",
+      "author": "DeluxHost",
+      "posted": "Tue, 06 Oct 2026 16:15:03 +0000",
+      "age_days": 21,
       "age_status": "ACTIVE",
-      "availability": "UNVERIFIED",
+      "availability": "ON_SALE",
       "replies": {
-        "reply_count": 33,
-        "vendor_reply_count": 15,
+        "reply_count": 56,
+        "vendor_reply_count": 19,
         "status": null,
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:05+00:00"
+        "fetched_at": "2026-10-28T05:45:17+00:00"
       },
-      "event_type": "sale",
+      "event_type": "restock",
       "discount": {
-        "strength": "循环/永久 · 码 FIRSTORDER50",
+        "strength": "",
         "percent_max": null,
-        "recurring": true,
-        "codes": [
-          "FIRSTORDER50"
-        ],
+        "recurring": false,
+        "codes": [],
         "extras": []
       },
       "specs": {
-        "vcpu": 2,
-        "ram_gb": 4.0,
-        "storage_gb": 50.0,
-        "storage_type": "NVMe Gen4",
+        "vcpu": 1,
+        "ram_gb": 1.0,
+        "storage_gb": 80.0,
+        "storage_type": "NVMe SSD",
         "bandwidth_tb": null
       },
       "specs_all": {
         "vcpu": [
-          2
+          1
         ],
         "ram_gb": [
-          4.0
+          1.0
         ],
         "storage_gb": [
-          50.0
+          80.0,
+          60.0,
+          40.0,
+          20.0,
+          8.0
         ]
       },
       "plans": [],
       "flagship_price": null,
       "cpu_models": [
-        "Ryzen 9 9950X"
+        "EPYC 7551P",
+        "Ryzen 9 7950X",
+        "Xeon E5-2699"
       ],
       "prices": [],
-      "locations": [
-        "Frankfurt",
-        "Germany"
+      "locations": [],
+      "stock_hints": [
+        "RESTOCK",
+        "Restock",
+        "restock"
       ],
-      "stock_hints": [],
-      "confidence": 0.83,
-      "score": 48,
+      "confidence": 0.67,
+      "score": 15,
       "annual_eur": null,
-      "forum_url": "https://lowseek.ai/d/1383"
+      "forum_url": "https://lowseek.ai/d/1325"
     },
     {
       "thread_id": "222168",
@@ -143,13 +221,13 @@
       "age_status": "ACTIVE",
       "availability": "UNVERIFIED",
       "replies": {
-        "reply_count": 47,
+        "reply_count": 49,
         "vendor_reply_count": 6,
         "status": null,
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:06+00:00"
+        "fetched_at": "2026-10-28T05:45:18+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -211,338 +289,6 @@
       "forum_url": "https://lowseek.ai/d/1379"
     },
     {
-      "thread_id": "221165",
-      "source": "let",
-      "provider": "SoftShellWeb",
-      "title": "[SoftShellWeb] From $9.95/yr - NVMe · 10 Gbps · DDoS Protection · 2× bandwidth",
-      "url": "https://lowendtalk.com/discussion/221165/softshellweb-from-9-95-yr-nvme-10-gbps-ddos-protection-2-bandwidth",
-      "vendor_url": "https://softshellweb.com/specials#plan-one",
-      "author": "SoftShellWeb",
-      "posted": "Wed, 16 Sep 2026 16:30:07 +0000",
-      "age_days": 41,
-      "age_status": "STALE",
-      "availability": "UNVERIFIED_STALE",
-      "replies": {
-        "reply_count": 31,
-        "vendor_reply_count": 14,
-        "status": null,
-        "source": null,
-        "evidence": null,
-        "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:07+00:00"
-      },
-      "event_type": "regular",
-      "discount": {
-        "strength": "循环/永久 · double bandwidth",
-        "percent_max": null,
-        "recurring": true,
-        "codes": [],
-        "extras": [
-          "double bandwidth"
-        ]
-      },
-      "specs": {
-        "vcpu": 4,
-        "ram_gb": 8.0,
-        "storage_gb": 100.0,
-        "storage_type": "NVMe",
-        "bandwidth_tb": 5.86
-      },
-      "specs_all": {
-        "vcpu": [
-          4,
-          3,
-          2,
-          1
-        ],
-        "ram_gb": [
-          8.0,
-          4.0,
-          2.0,
-          1.0
-        ],
-        "storage_gb": [
-          100.0,
-          60.0,
-          30.0,
-          30.0,
-          20.0,
-          15.0,
-          8.0,
-          4.0
-        ]
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [],
-      "prices": [
-        {
-          "amount": 5.95,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 9.95,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 0.83,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 11.95,
-          "currency": "$",
-          "cycle": "year"
-        }
-      ],
-      "locations": [
-        "Los Angeles"
-      ],
-      "stock_hints": [],
-      "confidence": 0.83,
-      "score": 48,
-      "annual_eur": 5.47,
-      "forum_url": "https://lowseek.ai/d/1333"
-    },
-    {
-      "thread_id": "222474",
-      "source": "let",
-      "provider": "Caliber Node",
-      "title": "Caliber Node | Halloween Sale — 7 Days of Cloud Apps, VPS & BYOH Deals + $200 Giveaway!",
-      "url": "https://lowendtalk.com/discussion/222474/caliber-node-halloween-sale-7-days-of-cloud-apps-vps-byoh-deals-200-giveaway",
-      "vendor_url": "https://calibernode.com/cloud-apps#catalog",
-      "author": "CaliberNode",
-      "posted": "Sat, 24 Oct 2026 23:06:37 +0000",
-      "age_days": 2,
-      "age_status": "NEW",
-      "availability": "UNVERIFIED",
-      "replies": {
-        "reply_count": 32,
-        "vendor_reply_count": 1,
-        "status": null,
-        "source": null,
-        "evidence": null,
-        "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:08+00:00"
-      },
-      "event_type": "holiday",
-      "discount": {
-        "strength": "码 CHECK/TREAT26",
-        "percent_max": null,
-        "recurring": false,
-        "codes": [
-          "CHECK",
-          "TREAT26"
-        ],
-        "extras": []
-      },
-      "specs": {
-        "vcpu": 2,
-        "ram_gb": 2.0,
-        "storage_gb": 30.0,
-        "storage_type": "unspecified",
-        "bandwidth_tb": null
-      },
-      "specs_all": {
-        "vcpu": [
-          2
-        ],
-        "ram_gb": [
-          2.0
-        ],
-        "storage_gb": [
-          30.0
-        ]
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [],
-      "prices": [
-        {
-          "amount": 8.0,
-          "currency": "$",
-          "cycle": "year"
-        }
-      ],
-      "locations": [
-        "Dallas",
-        "Los Angeles",
-        "Warsaw",
-        "Singapore",
-        "Tokyo"
-      ],
-      "stock_hints": [],
-      "confidence": 0.83,
-      "score": 28,
-      "annual_eur": 7.36,
-      "forum_url": "https://lowseek.ai/d/1678"
-    },
-    {
-      "thread_id": "221797",
-      "source": "let",
-      "provider": "DeluxHost.net",
-      "title": "DeluxHost.net | VPS Restock | Improved Storage Servers! | Z / T / Q | Highly DDoS Protected | NL",
-      "url": "https://lowendtalk.com/discussion/221797/deluxhost-net-vps-restock-improved-storage-servers-z-t-q-highly-ddos-protected-nl",
-      "vendor_url": "https://deluxhost.net/en/cart?add=storage-1&cycle=monthly&ref=M7U4WHX5",
-      "author": "DeluxHost",
-      "posted": "Tue, 06 Oct 2026 16:15:03 +0000",
-      "age_days": 21,
-      "age_status": "ACTIVE",
-      "availability": "ON_SALE",
-      "replies": {
-        "reply_count": 54,
-        "vendor_reply_count": 19,
-        "status": null,
-        "source": null,
-        "evidence": null,
-        "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:11+00:00"
-      },
-      "event_type": "restock",
-      "discount": {
-        "strength": "",
-        "percent_max": null,
-        "recurring": false,
-        "codes": [],
-        "extras": []
-      },
-      "specs": {
-        "vcpu": 1,
-        "ram_gb": 1.0,
-        "storage_gb": 80.0,
-        "storage_type": "NVMe SSD",
-        "bandwidth_tb": null
-      },
-      "specs_all": {
-        "vcpu": [
-          1
-        ],
-        "ram_gb": [
-          1.0
-        ],
-        "storage_gb": [
-          80.0,
-          60.0,
-          40.0,
-          20.0,
-          8.0
-        ]
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [
-        "EPYC 7551P",
-        "Ryzen 9 7950X",
-        "Xeon E5-2699"
-      ],
-      "prices": [],
-      "locations": [],
-      "stock_hints": [
-        "RESTOCK",
-        "Restock",
-        "restock"
-      ],
-      "confidence": 0.67,
-      "score": 15,
-      "annual_eur": null,
-      "forum_url": "https://lowseek.ai/d/1325"
-    },
-    {
-      "thread_id": "222597",
-      "source": "let",
-      "provider": "NighttWatch",
-      "title": "Raff Technologies: KVM VPS from $4.99/mo · Managed Databases · AMD EPYC · NVMe · Unmetered",
-      "url": "https://lowendtalk.com/discussion/222597/raff-technologies-kvm-vps-from-4-99-mo-managed-databases-amd-epyc-nvme-unmetered",
-      "vendor_url": null,
-      "author": "NighttWatch",
-      "posted": "Tue, 27 Oct 2026 11:58:44 +0000",
-      "age_days": 0,
-      "age_status": "NEW",
-      "availability": "LIKELY_SOLD_OUT",
-      "replies": {
-        "reply_count": 19,
-        "vendor_reply_count": 3,
-        "status": "SOLD_OUT",
-        "source": "user",
-        "evidence": {
-          "status": "SOLD_OUT",
-          "author": "averagedatahoarder",
-          "is_vendor": false,
-          "datetime": "2026-10-27T16:06:37+00:00",
-          "match": "out of stock",
-          "snippet": "10 Gbit/s LACP For 6.99€ per month I don't believe they offer this plan anymore, or it is out of stock",
-          "comment_id": "4900839",
-          "offset": 205
-        },
-        "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:11+00:00"
-      },
-      "event_type": "black_friday",
-      "discount": {
-        "strength": "最高 30% off",
-        "percent_max": 30,
-        "recurring": false,
-        "codes": [],
-        "extras": []
-      },
-      "specs": {
-        "vcpu": 2,
-        "ram_gb": null,
-        "storage_gb": 50.0,
-        "storage_type": "NVMe",
-        "bandwidth_tb": null
-      },
-      "specs_all": {
-        "vcpu": [
-          2,
-          1
-        ],
-        "ram_gb": [],
-        "storage_gb": [
-          50.0,
-          40.0,
-          25.0
-        ]
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [
-        "EPYC 7313"
-      ],
-      "prices": [
-        {
-          "amount": 49.9,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 4.99,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 89.9,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 7.99,
-          "currency": "$",
-          "cycle": "month"
-        }
-      ],
-      "locations": [],
-      "stock_hints": [
-        "limited stock"
-      ],
-      "confidence": 0.83,
-      "score": 57,
-      "annual_eur": 45.91,
-      "forum_url": "https://lowseek.ai/d/1761"
-    },
-    {
       "thread_id": "222614",
       "source": "let",
       "provider": "Ava.hosting",
@@ -555,13 +301,13 @@
       "age_status": "NEW",
       "availability": "UNVERIFIED",
       "replies": {
-        "reply_count": 7,
+        "reply_count": 9,
         "vendor_reply_count": 0,
         "status": null,
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:11+00:00"
+        "fetched_at": "2026-10-28T05:45:18+00:00"
       },
       "event_type": "black_friday",
       "discount": {
@@ -603,6 +349,245 @@
       "forum_url": null
     },
     {
+      "thread_id": "221687",
+      "source": "let",
+      "provider": "LayerOne VPS Hosting",
+      "title": "LayerOne VPS Hosting - Up to 30% off - New NVME Backed Storage + Routed IPv6 Support",
+      "url": "https://lowendtalk.com/discussion/221687/layerone-vps-hosting-up-to-30-off-new-nvme-backed-storage-routed-ipv6-support",
+      "vendor_url": null,
+      "author": "LayerOne",
+      "posted": "Fri, 02 Oct 2026 16:41:57 +0000",
+      "age_days": 25,
+      "age_status": "ACTIVE",
+      "availability": "UNVERIFIED",
+      "replies": {
+        "reply_count": 45,
+        "vendor_reply_count": 13,
+        "status": "ON_SALE",
+        "source": "user",
+        "evidence": {
+          "status": "ON_SALE",
+          "author": "fetcher",
+          "is_vendor": false,
+          "datetime": "2026-10-23T19:06:56+00:00",
+          "match": "still available",
+          "snippet": "Hi, I just signed up. If the bonus offer is still available, please add 10 GB of storage to my VPS: Support reference 6028 / Hostname vps-4003.layero",
+          "comment_id": "4895464",
+          "offset": 44
+        },
+        "vendor_signals": [],
+        "fetched_at": "2026-10-28T05:45:20+00:00"
+      },
+      "event_type": "sale",
+      "discount": {
+        "strength": "最高 30% off",
+        "percent_max": 30,
+        "recurring": false,
+        "codes": [],
+        "extras": []
+      },
+      "specs": {
+        "vcpu": null,
+        "ram_gb": null,
+        "storage_gb": null,
+        "storage_type": null,
+        "bandwidth_tb": null
+      },
+      "specs_all": {
+        "vcpu": [],
+        "ram_gb": [],
+        "storage_gb": []
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [],
+      "prices": [
+        {
+          "amount": 20.16,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 2.4,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 33.6,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 4.0,
+          "currency": "$",
+          "cycle": "month"
+        }
+      ],
+      "locations": [],
+      "stock_hints": [],
+      "confidence": 0.33,
+      "score": 32,
+      "annual_eur": 18.55,
+      "forum_url": null
+    },
+    {
+      "thread_id": "221937",
+      "source": "let",
+      "provider": "ravnix.gg",
+      "title": "RAVNIX is Back! New Atlanta Location, Upgraded Network & VPS Offers Starting at $14/Year!",
+      "url": "https://lowendtalk.com/discussion/221937/ravnix-is-back-new-atlanta-location-upgraded-network-vps-offers-starting-at-14-year",
+      "vendor_url": "https://ravnix.gg",
+      "author": "RAVNIX",
+      "posted": "Sat, 10 Oct 2026 18:35:28 +0000",
+      "age_days": 17,
+      "age_status": "ACTIVE",
+      "availability": "UNVERIFIED",
+      "replies": {
+        "reply_count": 45,
+        "vendor_reply_count": 12,
+        "status": null,
+        "source": null,
+        "evidence": null,
+        "vendor_signals": [],
+        "fetched_at": "2026-10-28T05:45:21+00:00"
+      },
+      "event_type": "launch",
+      "discount": {
+        "strength": "循环/永久",
+        "percent_max": null,
+        "recurring": true,
+        "codes": [],
+        "extras": []
+      },
+      "specs": {
+        "vcpu": null,
+        "ram_gb": null,
+        "storage_gb": null,
+        "storage_type": null,
+        "bandwidth_tb": null
+      },
+      "specs_all": {
+        "vcpu": [],
+        "ram_gb": [],
+        "storage_gb": []
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [
+        "Xeon E5-2699"
+      ],
+      "prices": [
+        {
+          "amount": 14.0,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 24.0,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 34.0,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 10.0,
+          "currency": "$",
+          "cycle": "month"
+        }
+      ],
+      "locations": [
+        "Atlanta"
+      ],
+      "stock_hints": [],
+      "confidence": 0.5,
+      "score": 45,
+      "annual_eur": 12.88,
+      "forum_url": "https://lowseek.ai/d/1336"
+    },
+    {
+      "thread_id": "221258",
+      "source": "let",
+      "provider": "EthernetServers",
+      "title": "From $2.25/mo - 10 Gbps KVM VPS – Los Angeles, New Jersey, Miami, London & Frankfurt",
+      "url": "https://lowendtalk.com/discussion/221258/from-2-25-mo-10-gbps-kvm-vps-los-angeles-new-jersey-miami-london-frankfurt",
+      "vendor_url": "https://www.ethernetservers.com/cart.php?a=add&pid=322&billingcycle=monthly",
+      "author": "EthernetServers",
+      "posted": "Sat, 19 Sep 2026 19:17:54 +0000",
+      "age_days": 38,
+      "age_status": "STALE",
+      "availability": "UNVERIFIED_STALE",
+      "replies": {
+        "reply_count": 32,
+        "vendor_reply_count": 8,
+        "status": null,
+        "source": null,
+        "evidence": null,
+        "vendor_signals": [],
+        "fetched_at": "2026-10-28T05:45:22+00:00"
+      },
+      "event_type": "sale",
+      "discount": {
+        "strength": "free upgrade",
+        "percent_max": null,
+        "recurring": false,
+        "codes": [],
+        "extras": [
+          "free upgrade"
+        ]
+      },
+      "specs": {
+        "vcpu": null,
+        "ram_gb": null,
+        "storage_gb": null,
+        "storage_type": null,
+        "bandwidth_tb": 8.0
+      },
+      "specs_all": {
+        "vcpu": [],
+        "ram_gb": [],
+        "storage_gb": []
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [],
+      "prices": [
+        {
+          "amount": 2.25,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 3.0,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 4.5,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 6.0,
+          "currency": "$",
+          "cycle": "month"
+        }
+      ],
+      "locations": [
+        "Los Angeles",
+        "Miami",
+        "London",
+        "Frankfurt"
+      ],
+      "stock_hints": [],
+      "confidence": 0.33,
+      "score": 18,
+      "annual_eur": 24.84,
+      "forum_url": "https://lowseek.ai/d/1341"
+    },
+    {
       "thread_id": "222157",
       "source": "let",
       "provider": "nolimitcloud.eu",
@@ -615,13 +600,13 @@
       "age_status": "ACTIVE",
       "availability": "UNVERIFIED",
       "replies": {
-        "reply_count": 20,
-        "vendor_reply_count": 10,
+        "reply_count": 21,
+        "vendor_reply_count": 11,
         "status": null,
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:12+00:00"
+        "fetched_at": "2026-10-28T05:45:22+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -710,36 +695,325 @@
       "forum_url": "https://lowseek.ai/d/1372"
     },
     {
-      "thread_id": "221687",
+      "thread_id": "219747",
       "source": "let",
-      "provider": "LayerOne VPS Hosting",
-      "title": "LayerOne VPS Hosting - Up to 30% off - New NVME Backed Storage + Routed IPv6 Support",
-      "url": "https://lowendtalk.com/discussion/221687/layerone-vps-hosting-up-to-30-off-new-nvme-backed-storage-routed-ipv6-support",
-      "vendor_url": null,
-      "author": "LayerOne",
-      "posted": "Fri, 02 Oct 2026 16:41:57 +0000",
-      "age_days": 25,
+      "provider": "fiberstate.com",
+      "title": "WELCOME TO FIBERSTATE’S CHICAGO MEGA LAUNCH EVENT! GIVEAWAY + FLASH SALES",
+      "url": "https://lowendtalk.com/discussion/219747/welcome-to-fiberstate-s-chicago-mega-launch-event-giveaway-flash-sales",
+      "vendor_url": "https://www.fiberstate.com/dedicated-servers",
+      "author": "fiberstate",
+      "posted": "Sun, 02 Aug 2026 22:34:08 +0000",
+      "age_days": 86,
+      "age_status": "STALE",
+      "availability": "ON_SALE",
+      "replies": {
+        "reply_count": 47,
+        "vendor_reply_count": 13,
+        "status": "ON_SALE",
+        "source": "vendor",
+        "evidence": {
+          "status": "ON_SALE",
+          "author": "fiberstate",
+          "is_vendor": true,
+          "datetime": "2026-10-18T20:57:10+00:00",
+          "match": "are in stock",
+          "snippet": "Not any time soon, the 9750X is $199 currently when they are in stock. Unfortunately, hardware just continues to climb in cost, especially ram and drives. Ther",
+          "comment_id": "4890960",
+          "offset": 57
+        },
+        "vendor_signals": [
+          {
+            "status": "ON_SALE",
+            "author": "fiberstate",
+            "is_vendor": true,
+            "datetime": "2026-10-18T20:57:10+00:00",
+            "match": "are in stock",
+            "snippet": "Not any time soon, the 9750X is $199 currently when they are in stock. Unfortunately, hardware just continues to climb in cost, especially ram and drives. Ther",
+            "comment_id": "4890960",
+            "offset": 57
+          }
+        ],
+        "fetched_at": "2026-10-28T05:45:24+00:00"
+      },
+      "event_type": "launch",
+      "discount": {
+        "strength": "free upgrade · 码 BEASTMODE7950XSLC/BEASTMODE9950X/BEASTMODE9950XNYC",
+        "percent_max": null,
+        "recurring": false,
+        "codes": [
+          "BEASTMODE7950XSLC",
+          "BEASTMODE9950X",
+          "BEASTMODE9950XNYC",
+          "BEASTMODE9950XSLC",
+          "BEASTMODEGOLDCHI",
+          "BEASTMODEGOLDSLC"
+        ],
+        "extras": [
+          "free upgrade"
+        ]
+      },
+      "specs": {
+        "vcpu": 40,
+        "ram_gb": 256.0,
+        "storage_gb": 4096.0,
+        "storage_type": "NVMe",
+        "bandwidth_tb": 660.0
+      },
+      "specs_all": {
+        "vcpu": [
+          40,
+          28,
+          16,
+          8
+        ],
+        "ram_gb": [
+          256.0,
+          128.0,
+          64.0
+        ],
+        "storage_gb": [
+          4096.0,
+          4096.0,
+          4096.0,
+          2048.0,
+          1024.0,
+          1024.0,
+          1024.0
+        ]
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [
+        "Ryzen 7 5700G",
+        "Ryzen 9 7950X",
+        "Ryzen 9 9950X"
+      ],
+      "prices": [
+        {
+          "amount": 69.95,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 99.95,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 149.95,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 179.95,
+          "currency": "$",
+          "cycle": "month"
+        }
+      ],
+      "locations": [
+        "CHICAGO",
+        "NEW YORK",
+        "LOS ANGELES",
+        "SALT LAKE CITY"
+      ],
+      "stock_hints": [],
+      "confidence": 1.0,
+      "score": 35,
+      "annual_eur": 772.25,
+      "forum_url": "https://lowseek.ai/d/1343"
+    },
+    {
+      "thread_id": "222269",
+      "source": "let",
+      "provider": "Linceris.com",
+      "title": "Linceris.com - Frankfurt Ryzen 9 9950X KVM VPS | 10Gbps | DataForest DDoS Protection | Free IPs",
+      "url": "https://lowendtalk.com/discussion/222269/linceris-com-frankfurt-ryzen-9-9950x-kvm-vps-10gbps-dataforest-ddos-protection-free-ips",
+      "vendor_url": "https://linceris.com/premium-vps",
+      "author": "YassineB",
+      "posted": "Mon, 19 Oct 2026 14:38:31 +0000",
+      "age_days": 8,
       "age_status": "ACTIVE",
       "availability": "UNVERIFIED",
       "replies": {
-        "reply_count": 44,
-        "vendor_reply_count": 13,
-        "status": "ON_SALE",
-        "source": "user",
-        "evidence": {
-          "status": "ON_SALE",
-          "author": "fetcher",
-          "is_vendor": false,
-          "datetime": "2026-10-23T19:06:56+00:00",
-          "match": "still available",
-          "snippet": "Hi, I just signed up. If the bonus offer is still available, please add 10 GB of storage to my VPS: Support reference 6028 / Hostname vps-4003.layero",
-          "comment_id": "4895464",
-          "offset": 44
-        },
+        "reply_count": 34,
+        "vendor_reply_count": 15,
+        "status": null,
+        "source": null,
+        "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:13+00:00"
+        "fetched_at": "2026-10-28T05:45:25+00:00"
       },
       "event_type": "sale",
+      "discount": {
+        "strength": "循环/永久 · 码 FIRSTORDER50",
+        "percent_max": null,
+        "recurring": true,
+        "codes": [
+          "FIRSTORDER50"
+        ],
+        "extras": []
+      },
+      "specs": {
+        "vcpu": 2,
+        "ram_gb": 4.0,
+        "storage_gb": 50.0,
+        "storage_type": "NVMe Gen4",
+        "bandwidth_tb": null
+      },
+      "specs_all": {
+        "vcpu": [
+          2
+        ],
+        "ram_gb": [
+          4.0
+        ],
+        "storage_gb": [
+          50.0
+        ]
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [
+        "Ryzen 9 9950X"
+      ],
+      "prices": [],
+      "locations": [
+        "Frankfurt",
+        "Germany"
+      ],
+      "stock_hints": [],
+      "confidence": 0.83,
+      "score": 48,
+      "annual_eur": null,
+      "forum_url": "https://lowseek.ai/d/1383"
+    },
+    {
+      "thread_id": "221165",
+      "source": "let",
+      "provider": "SoftShellWeb",
+      "title": "[SoftShellWeb] From $9.95/yr - NVMe · 10 Gbps · DDoS Protection · 2× bandwidth",
+      "url": "https://lowendtalk.com/discussion/221165/softshellweb-from-9-95-yr-nvme-10-gbps-ddos-protection-2-bandwidth",
+      "vendor_url": "https://softshellweb.com/specials#plan-one",
+      "author": "SoftShellWeb",
+      "posted": "Wed, 16 Sep 2026 16:30:07 +0000",
+      "age_days": 41,
+      "age_status": "STALE",
+      "availability": "UNVERIFIED_STALE",
+      "replies": {
+        "reply_count": 31,
+        "vendor_reply_count": 14,
+        "status": null,
+        "source": null,
+        "evidence": null,
+        "vendor_signals": [],
+        "fetched_at": "2026-10-28T05:45:26+00:00"
+      },
+      "event_type": "regular",
+      "discount": {
+        "strength": "循环/永久 · double bandwidth",
+        "percent_max": null,
+        "recurring": true,
+        "codes": [],
+        "extras": [
+          "double bandwidth"
+        ]
+      },
+      "specs": {
+        "vcpu": 4,
+        "ram_gb": 8.0,
+        "storage_gb": 100.0,
+        "storage_type": "NVMe",
+        "bandwidth_tb": 5.86
+      },
+      "specs_all": {
+        "vcpu": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "ram_gb": [
+          8.0,
+          4.0,
+          2.0,
+          1.0
+        ],
+        "storage_gb": [
+          100.0,
+          60.0,
+          30.0,
+          30.0,
+          20.0,
+          15.0,
+          8.0,
+          4.0
+        ]
+      },
+      "plans": [],
+      "flagship_price": null,
+      "cpu_models": [],
+      "prices": [
+        {
+          "amount": 5.95,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 9.95,
+          "currency": "$",
+          "cycle": "year"
+        },
+        {
+          "amount": 0.83,
+          "currency": "$",
+          "cycle": "month"
+        },
+        {
+          "amount": 11.95,
+          "currency": "$",
+          "cycle": "year"
+        }
+      ],
+      "locations": [
+        "Los Angeles"
+      ],
+      "stock_hints": [],
+      "confidence": 0.83,
+      "score": 48,
+      "annual_eur": 5.47,
+      "forum_url": "https://lowseek.ai/d/1333"
+    },
+    {
+      "thread_id": "222597",
+      "source": "let",
+      "provider": "NighttWatch",
+      "title": "Raff Technologies: KVM VPS from $4.99/mo · Managed Databases · AMD EPYC · NVMe · Unmetered",
+      "url": "https://lowendtalk.com/discussion/222597/raff-technologies-kvm-vps-from-4-99-mo-managed-databases-amd-epyc-nvme-unmetered",
+      "vendor_url": null,
+      "author": "NighttWatch",
+      "posted": "Tue, 27 Oct 2026 11:58:44 +0000",
+      "age_days": 0,
+      "age_status": "NEW",
+      "availability": "LIKELY_SOLD_OUT",
+      "replies": {
+        "reply_count": 19,
+        "vendor_reply_count": 3,
+        "status": "SOLD_OUT",
+        "source": "user",
+        "evidence": {
+          "status": "SOLD_OUT",
+          "author": "averagedatahoarder",
+          "is_vendor": false,
+          "datetime": "2026-10-27T16:06:37+00:00",
+          "match": "out of stock",
+          "snippet": "10 Gbit/s LACP For 6.99€ per month I don't believe they offer this plan anymore, or it is out of stock",
+          "comment_id": "4900839",
+          "offset": 205
+        },
+        "vendor_signals": [],
+        "fetched_at": "2026-10-28T05:45:29+00:00"
+      },
+      "event_type": "black_friday",
       "discount": {
         "strength": "最高 30% off",
         "percent_max": 30,
@@ -748,125 +1022,59 @@
         "extras": []
       },
       "specs": {
-        "vcpu": null,
+        "vcpu": 2,
         "ram_gb": null,
-        "storage_gb": null,
-        "storage_type": null,
+        "storage_gb": 50.0,
+        "storage_type": "NVMe",
         "bandwidth_tb": null
       },
       "specs_all": {
-        "vcpu": [],
+        "vcpu": [
+          2,
+          1
+        ],
         "ram_gb": [],
-        "storage_gb": []
+        "storage_gb": [
+          50.0,
+          40.0,
+          25.0
+        ]
       },
       "plans": [],
       "flagship_price": null,
-      "cpu_models": [],
+      "cpu_models": [
+        "EPYC 7313"
+      ],
       "prices": [
         {
-          "amount": 20.16,
+          "amount": 49.9,
           "currency": "$",
           "cycle": "year"
         },
         {
-          "amount": 2.4,
+          "amount": 4.99,
           "currency": "$",
           "cycle": "month"
         },
         {
-          "amount": 33.6,
+          "amount": 89.9,
           "currency": "$",
           "cycle": "year"
         },
         {
-          "amount": 4.0,
+          "amount": 7.99,
           "currency": "$",
           "cycle": "month"
         }
       ],
       "locations": [],
-      "stock_hints": [],
-      "confidence": 0.33,
-      "score": 32,
-      "annual_eur": 18.55,
-      "forum_url": null
-    },
-    {
-      "thread_id": "221937",
-      "source": "let",
-      "provider": "ravnix.gg",
-      "title": "RAVNIX is Back! New Atlanta Location, Upgraded Network & VPS Offers Starting at $14/Year!",
-      "url": "https://lowendtalk.com/discussion/221937/ravnix-is-back-new-atlanta-location-upgraded-network-vps-offers-starting-at-14-year",
-      "vendor_url": "https://ravnix.gg",
-      "author": "RAVNIX",
-      "posted": "Sat, 10 Oct 2026 18:35:28 +0000",
-      "age_days": 17,
-      "age_status": "ACTIVE",
-      "availability": "UNVERIFIED",
-      "replies": {
-        "reply_count": 41,
-        "vendor_reply_count": 11,
-        "status": null,
-        "source": null,
-        "evidence": null,
-        "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:15+00:00"
-      },
-      "event_type": "launch",
-      "discount": {
-        "strength": "循环/永久",
-        "percent_max": null,
-        "recurring": true,
-        "codes": [],
-        "extras": []
-      },
-      "specs": {
-        "vcpu": null,
-        "ram_gb": null,
-        "storage_gb": null,
-        "storage_type": null,
-        "bandwidth_tb": null
-      },
-      "specs_all": {
-        "vcpu": [],
-        "ram_gb": [],
-        "storage_gb": []
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [
-        "Xeon E5-2699"
+      "stock_hints": [
+        "limited stock"
       ],
-      "prices": [
-        {
-          "amount": 14.0,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 24.0,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 34.0,
-          "currency": "$",
-          "cycle": "year"
-        },
-        {
-          "amount": 10.0,
-          "currency": "$",
-          "cycle": "month"
-        }
-      ],
-      "locations": [
-        "Atlanta"
-      ],
-      "stock_hints": [],
-      "confidence": 0.5,
-      "score": 45,
-      "annual_eur": 12.88,
-      "forum_url": "https://lowseek.ai/d/1336"
+      "confidence": 0.83,
+      "score": 57,
+      "annual_eur": 45.91,
+      "forum_url": "https://lowseek.ai/d/1761"
     },
     {
       "thread_id": "222415",
@@ -877,7 +1085,7 @@
       "vendor_url": null,
       "author": "PacketsDecreaser",
       "posted": "Fri, 23 Oct 2026 00:32:57 +0000",
-      "age_days": 4,
+      "age_days": 5,
       "age_status": "NEW",
       "availability": "UNVERIFIED",
       "replies": {
@@ -887,7 +1095,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:15+00:00"
+        "fetched_at": "2026-10-28T05:45:30+00:00"
       },
       "event_type": "holiday",
       "discount": {
@@ -983,7 +1191,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:16+00:00"
+        "fetched_at": "2026-10-28T05:45:32+00:00"
       },
       "event_type": "holiday",
       "discount": {
@@ -1060,7 +1268,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:19+00:00"
+        "fetched_at": "2026-10-28T05:45:35+00:00"
       },
       "event_type": "black_friday",
       "discount": {
@@ -1122,86 +1330,6 @@
       "forum_url": "https://lowseek.ai/d/1327"
     },
     {
-      "thread_id": "221258",
-      "source": "let",
-      "provider": "EthernetServers",
-      "title": "From $2.25/mo - 10 Gbps KVM VPS – Los Angeles, New Jersey, Miami, London & Frankfurt",
-      "url": "https://lowendtalk.com/discussion/221258/from-2-25-mo-10-gbps-kvm-vps-los-angeles-new-jersey-miami-london-frankfurt",
-      "vendor_url": "https://www.ethernetservers.com/cart.php?a=add&pid=322&billingcycle=monthly",
-      "author": "EthernetServers",
-      "posted": "Sat, 19 Sep 2026 19:17:54 +0000",
-      "age_days": 38,
-      "age_status": "STALE",
-      "availability": "UNVERIFIED_STALE",
-      "replies": {
-        "reply_count": 30,
-        "vendor_reply_count": 8,
-        "status": null,
-        "source": null,
-        "evidence": null,
-        "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:19+00:00"
-      },
-      "event_type": "sale",
-      "discount": {
-        "strength": "free upgrade",
-        "percent_max": null,
-        "recurring": false,
-        "codes": [],
-        "extras": [
-          "free upgrade"
-        ]
-      },
-      "specs": {
-        "vcpu": null,
-        "ram_gb": null,
-        "storage_gb": null,
-        "storage_type": null,
-        "bandwidth_tb": 8.0
-      },
-      "specs_all": {
-        "vcpu": [],
-        "ram_gb": [],
-        "storage_gb": []
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [],
-      "prices": [
-        {
-          "amount": 2.25,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 3.0,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 4.5,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 6.0,
-          "currency": "$",
-          "cycle": "month"
-        }
-      ],
-      "locations": [
-        "Los Angeles",
-        "Miami",
-        "London",
-        "Frankfurt"
-      ],
-      "stock_hints": [],
-      "confidence": 0.33,
-      "score": 18,
-      "annual_eur": 24.84,
-      "forum_url": "https://lowseek.ai/d/1341"
-    },
-    {
       "thread_id": "222164",
       "source": "let",
       "provider": "HostDZire",
@@ -1229,7 +1357,7 @@
           "offset": 40
         },
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:20+00:00"
+        "fetched_at": "2026-10-28T05:45:37+00:00"
       },
       "event_type": "black_friday",
       "discount": {
@@ -1327,7 +1455,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:22+00:00"
+        "fetched_at": "2026-10-28T05:45:39+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -1412,7 +1540,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:23+00:00"
+        "fetched_at": "2026-10-28T05:45:40+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -1470,7 +1598,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:24+00:00"
+        "fetched_at": "2026-10-28T05:45:42+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -1538,7 +1666,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:25+00:00"
+        "fetched_at": "2026-10-28T05:45:43+00:00"
       },
       "event_type": "restock",
       "discount": {
@@ -1637,7 +1765,7 @@
           "offset": 111
         },
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:26+00:00"
+        "fetched_at": "2026-10-28T05:45:44+00:00"
       },
       "event_type": "holiday",
       "discount": {
@@ -1732,7 +1860,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:26+00:00"
+        "fetched_at": "2026-10-28T05:45:45+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -1801,7 +1929,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:26+00:00"
+        "fetched_at": "2026-10-28T05:45:45+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -1861,7 +1989,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:27+00:00"
+        "fetched_at": "2026-10-28T05:45:45+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -1955,7 +2083,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:27+00:00"
+        "fetched_at": "2026-10-28T05:45:45+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -2081,7 +2209,7 @@
             "offset": 0
           }
         ],
-        "fetched_at": "2026-10-27T22:16:28+00:00"
+        "fetched_at": "2026-10-28T05:45:47+00:00"
       },
       "event_type": "anniversary",
       "discount": {
@@ -2370,7 +2498,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:28+00:00"
+        "fetched_at": "2026-10-28T05:45:47+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -2455,7 +2583,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:30+00:00"
+        "fetched_at": "2026-10-28T05:45:49+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -2539,7 +2667,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:30+00:00"
+        "fetched_at": "2026-10-28T05:45:49+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -2630,7 +2758,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:31+00:00"
+        "fetched_at": "2026-10-28T05:45:51+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -2680,7 +2808,7 @@
       "vendor_url": "https://servers.guru/anonymous-10gbps-vps/",
       "author": "servers_guru",
       "posted": "Fri, 16 Oct 2026 02:22:02 +0000",
-      "age_days": 11,
+      "age_days": 12,
       "age_status": "ACTIVE",
       "availability": "UNVERIFIED",
       "replies": {
@@ -2690,7 +2818,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:32+00:00"
+        "fetched_at": "2026-10-28T05:45:52+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -2791,7 +2919,7 @@
           "offset": 110
         },
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:39+00:00"
+        "fetched_at": "2026-10-28T05:46:00+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -2872,7 +3000,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:39+00:00"
+        "fetched_at": "2026-10-28T05:46:00+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -2981,7 +3109,7 @@
             "offset": 0
           }
         ],
-        "fetched_at": "2026-10-27T22:16:40+00:00"
+        "fetched_at": "2026-10-28T05:46:01+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -3060,7 +3188,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:41+00:00"
+        "fetched_at": "2026-10-28T05:46:02+00:00"
       },
       "event_type": "holiday",
       "discount": {
@@ -3153,7 +3281,7 @@
             "offset": 11
           }
         ],
-        "fetched_at": "2026-10-27T22:16:42+00:00"
+        "fetched_at": "2026-10-28T05:46:04+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -3235,134 +3363,6 @@
       "forum_url": "https://lowseek.ai/d/1356"
     },
     {
-      "thread_id": "219747",
-      "source": "let",
-      "provider": "fiberstate.com",
-      "title": "WELCOME TO FIBERSTATE’S CHICAGO MEGA LAUNCH EVENT! GIVEAWAY + FLASH SALES",
-      "url": "https://lowendtalk.com/discussion/219747/welcome-to-fiberstate-s-chicago-mega-launch-event-giveaway-flash-sales",
-      "vendor_url": "https://www.fiberstate.com/dedicated-servers",
-      "author": "fiberstate",
-      "posted": "Sun, 02 Aug 2026 22:34:08 +0000",
-      "age_days": 85,
-      "age_status": "STALE",
-      "availability": "ON_SALE",
-      "replies": {
-        "reply_count": 46,
-        "vendor_reply_count": 12,
-        "status": "ON_SALE",
-        "source": "vendor",
-        "evidence": {
-          "status": "ON_SALE",
-          "author": "fiberstate",
-          "is_vendor": true,
-          "datetime": "2026-10-18T20:57:10+00:00",
-          "match": "are in stock",
-          "snippet": "Not any time soon, the 9750X is $199 currently when they are in stock. Unfortunately, hardware just continues to climb in cost, especially ram and drives. Ther",
-          "comment_id": "4890960",
-          "offset": 57
-        },
-        "vendor_signals": [
-          {
-            "status": "ON_SALE",
-            "author": "fiberstate",
-            "is_vendor": true,
-            "datetime": "2026-10-18T20:57:10+00:00",
-            "match": "are in stock",
-            "snippet": "Not any time soon, the 9750X is $199 currently when they are in stock. Unfortunately, hardware just continues to climb in cost, especially ram and drives. Ther",
-            "comment_id": "4890960",
-            "offset": 57
-          }
-        ],
-        "fetched_at": "2026-10-27T22:16:44+00:00"
-      },
-      "event_type": "launch",
-      "discount": {
-        "strength": "free upgrade · 码 BEASTMODE7950XSLC/BEASTMODE9950X/BEASTMODE9950XNYC",
-        "percent_max": null,
-        "recurring": false,
-        "codes": [
-          "BEASTMODE7950XSLC",
-          "BEASTMODE9950X",
-          "BEASTMODE9950XNYC",
-          "BEASTMODE9950XSLC",
-          "BEASTMODEGOLDCHI",
-          "BEASTMODEGOLDSLC"
-        ],
-        "extras": [
-          "free upgrade"
-        ]
-      },
-      "specs": {
-        "vcpu": 40,
-        "ram_gb": 256.0,
-        "storage_gb": 4096.0,
-        "storage_type": "NVMe",
-        "bandwidth_tb": 660.0
-      },
-      "specs_all": {
-        "vcpu": [
-          40,
-          28,
-          16,
-          8
-        ],
-        "ram_gb": [
-          256.0,
-          128.0,
-          64.0
-        ],
-        "storage_gb": [
-          4096.0,
-          4096.0,
-          4096.0,
-          2048.0,
-          1024.0,
-          1024.0,
-          1024.0
-        ]
-      },
-      "plans": [],
-      "flagship_price": null,
-      "cpu_models": [
-        "Ryzen 7 5700G",
-        "Ryzen 9 7950X",
-        "Ryzen 9 9950X"
-      ],
-      "prices": [
-        {
-          "amount": 69.95,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 99.95,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 149.95,
-          "currency": "$",
-          "cycle": "month"
-        },
-        {
-          "amount": 179.95,
-          "currency": "$",
-          "cycle": "month"
-        }
-      ],
-      "locations": [
-        "CHICAGO",
-        "NEW YORK",
-        "LOS ANGELES",
-        "SALT LAKE CITY"
-      ],
-      "stock_hints": [],
-      "confidence": 1.0,
-      "score": 35,
-      "annual_eur": 772.25,
-      "forum_url": "https://lowseek.ai/d/1343"
-    },
-    {
       "thread_id": "221603",
       "source": "let",
       "provider": "Caliber Node",
@@ -3381,7 +3381,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:45+00:00"
+        "fetched_at": "2026-10-28T05:46:05+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -3460,7 +3460,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:45+00:00"
+        "fetched_at": "2026-10-28T05:46:05+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -3550,7 +3550,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:46+00:00"
+        "fetched_at": "2026-10-28T05:46:07+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -3630,7 +3630,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:47+00:00"
+        "fetched_at": "2026-10-28T05:46:08+00:00"
       },
       "event_type": "anniversary",
       "discount": {
@@ -3744,7 +3744,7 @@
             "offset": 55
           }
         ],
-        "fetched_at": "2026-10-27T22:16:49+00:00"
+        "fetched_at": "2026-10-28T05:46:09+00:00"
       },
       "event_type": "restock",
       "discount": {
@@ -3896,7 +3896,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:50+00:00"
+        "fetched_at": "2026-10-28T05:46:11+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -3984,7 +3984,7 @@
             "offset": 39
           }
         ],
-        "fetched_at": "2026-10-27T22:16:51+00:00"
+        "fetched_at": "2026-10-28T05:46:12+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -4073,7 +4073,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:51+00:00"
+        "fetched_at": "2026-10-28T05:46:12+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -4137,7 +4137,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:51+00:00"
+        "fetched_at": "2026-10-28T05:46:13+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -4212,7 +4212,7 @@
       "vendor_url": "https://console.arct.cloud/servers/new?loc=lon&tier=cost_optimized",
       "author": "arctcloud",
       "posted": "Sat, 10 Oct 2026 22:39:46 +0000",
-      "age_days": 16,
+      "age_days": 17,
       "age_status": "ACTIVE",
       "availability": "UNVERIFIED",
       "replies": {
@@ -4222,7 +4222,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:51+00:00"
+        "fetched_at": "2026-10-28T05:46:13+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -4322,7 +4322,7 @@
             "offset": 7
           }
         ],
-        "fetched_at": "2026-10-27T22:16:54+00:00"
+        "fetched_at": "2026-10-28T05:46:16+00:00"
       },
       "event_type": "restock",
       "discount": {
@@ -4411,7 +4411,7 @@
       "vendor_url": null,
       "author": "trumvps",
       "posted": "Sun, 02 Aug 2026 02:52:59 +0000",
-      "age_days": 86,
+      "age_days": 87,
       "age_status": "STALE",
       "availability": "UNVERIFIED_STALE",
       "replies": {
@@ -4421,7 +4421,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:55+00:00"
+        "fetched_at": "2026-10-28T05:46:17+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -4493,7 +4493,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:55+00:00"
+        "fetched_at": "2026-10-28T05:46:17+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -4625,7 +4625,7 @@
             "offset": 28
           }
         ],
-        "fetched_at": "2026-10-27T22:16:55+00:00"
+        "fetched_at": "2026-10-28T05:46:17+00:00"
       },
       "event_type": "holiday",
       "discount": {
@@ -4744,7 +4744,7 @@
             "offset": 27
           }
         ],
-        "fetched_at": "2026-10-27T22:16:57+00:00"
+        "fetched_at": "2026-10-28T05:46:19+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -4827,7 +4827,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:58+00:00"
+        "fetched_at": "2026-10-28T05:46:20+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -4918,7 +4918,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:59+00:00"
+        "fetched_at": "2026-10-28T05:46:22+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -4998,7 +4998,7 @@
             "offset": 803
           }
         ],
-        "fetched_at": "2026-10-27T22:17:00+00:00"
+        "fetched_at": "2026-10-28T05:46:23+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -5110,7 +5110,7 @@
             "offset": 222
           }
         ],
-        "fetched_at": "2026-10-27T22:17:02+00:00"
+        "fetched_at": "2026-10-28T05:46:25+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -5207,7 +5207,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:02+00:00"
+        "fetched_at": "2026-10-28T05:46:25+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -5293,7 +5293,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:02+00:00"
+        "fetched_at": "2026-10-28T05:46:25+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -5410,7 +5410,7 @@
             "offset": 52
           }
         ],
-        "fetched_at": "2026-10-27T22:17:03+00:00"
+        "fetched_at": "2026-10-28T05:46:26+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -5510,7 +5510,7 @@
             "offset": 31
           }
         ],
-        "fetched_at": "2026-10-27T22:17:07+00:00"
+        "fetched_at": "2026-10-28T05:46:31+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -5603,7 +5603,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:08+00:00"
+        "fetched_at": "2026-10-28T05:46:32+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -5684,7 +5684,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:08+00:00"
+        "fetched_at": "2026-10-28T05:46:32+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -5774,7 +5774,7 @@
           "offset": 43
         },
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:08+00:00"
+        "fetched_at": "2026-10-28T05:46:32+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -5858,7 +5858,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:10+00:00"
+        "fetched_at": "2026-10-28T05:46:34+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -5924,7 +5924,7 @@
       "vendor_url": null,
       "author": "tpoll",
       "posted": "Fri, 04 Sep 2026 00:10:27 +0000",
-      "age_days": 53,
+      "age_days": 54,
       "age_status": "STALE",
       "availability": "UNVERIFIED_STALE",
       "replies": {
@@ -5934,7 +5934,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:12+00:00"
+        "fetched_at": "2026-10-28T05:46:37+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -6026,7 +6026,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:12+00:00"
+        "fetched_at": "2026-10-28T05:46:37+00:00"
       },
       "event_type": "restock",
       "discount": {
@@ -6101,7 +6101,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:13+00:00"
+        "fetched_at": "2026-10-28T05:46:38+00:00"
       },
       "event_type": "anniversary",
       "discount": {
@@ -6193,7 +6193,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:15+00:00"
+        "fetched_at": "2026-10-28T05:46:40+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -6283,7 +6283,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:15+00:00"
+        "fetched_at": "2026-10-28T05:46:40+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -6348,7 +6348,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:16+00:00"
+        "fetched_at": "2026-10-28T05:46:41+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -6430,7 +6430,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:16+00:00"
+        "fetched_at": "2026-10-28T05:46:42+00:00"
       },
       "event_type": "regular",
       "discount": {
@@ -6525,7 +6525,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:17:17+00:00"
+        "fetched_at": "2026-10-28T05:46:43+00:00"
       },
       "event_type": "launch",
       "discount": {
@@ -6616,7 +6616,7 @@
             "offset": 31
           }
         ],
-        "fetched_at": "2026-10-27T22:17:18+00:00"
+        "fetched_at": "2026-10-28T05:46:43+00:00"
       },
       "event_type": "sale",
       "discount": {
@@ -7307,7 +7307,7 @@
         "source": null,
         "evidence": null,
         "vendor_signals": [],
-        "fetched_at": "2026-10-27T22:16:32+00:00"
+        "fetched_at": "2026-10-28T05:45:52+00:00"
       },
       "event_type": "regular",
       "discount": {
