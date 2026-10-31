@@ -1,27 +1,30 @@
 | 来源 | 厂商 | 活动性质 | 力度 | 配置/CPU | 旗舰价 | 状态 | 置信度 |
 |---|---|---|---|---|---|---|---|
-| LET | Halloween | 节日促销 | 循环/永久 · 最高 50% off · 码 LETYEARLY/LOWENDTALKVPS | 2C/65GSSD / Xeon E5-2690 | $25.5/年 | 售罄 | 0.83 |
-| LET | Hostishere | 节日促销 | 循环/永久 · 6 months free | 2C/6G/60GNVMe SSD / Ryzen 9 7950X3D | €3.49/月 | 待确认 | 1.00 |
+| LET | servitro.com | 常规促销 | 码 BFJH1873LA | 1C/4G/25GSSD / EPYC 7443P, Ryzen 9 9950X | $12/年 | 待确认 | 1.00 |
 | LET | BLACK FRIDAY | 黑五 | 最高 60% off · 码 BFVPS55/BFVPS60 | 6C/512G/240GNVMe / EPYC 7642, Ryzen 9 9950X | £1.75/月 | 待确认 | 1.00 |
-| LET | TNAHosting | 节日促销 | 循环/永久 · 最高 50% off · 码 SPOOKYHYB10/SPOOKYRYZEN50/WORKS | 2C/4G/80GNVMe SSD / Ryzen 9 5900X | $10/年 | 待确认 | 1.00 |
+| LET | HostSailor Halloween Special | 节日促销 | 循环/永久 · 最高 50% off · 码 HALLOWEEN50 | 9534C/4G / EPYC 9534 | $29.94/年 | 待确认 | 0.83 |
+| LET | Servury Blackbox | 常规促销 | 最高 20% off · 码 LET20 | 50GNVMe | $8/月 | 待确认 | 0.50 |
+| LET | antonpa | 上新/回归 | 循环/永久 · 最高 40% off · 码 ALPHA/ARCTURUS/CLASSIC | 2G/40GNVMe | $3.3/月 | 待确认(较旧) | 0.67 |
+| LET | Caliber Node | 节日促销 | 码 CHECK/TREAT26 | 2C/2G/30G | $8/年 | 疑似售罄 | 0.83 |
+| LET | DeluxHost.net | 补货 | — | 1C/1G/80GNVMe SSD / EPYC 7551P, Ryzen 9 7950X | — | 在售 | 0.67 |
+| LET | servers_guru | 常规促销 | 循环/永久 · 最高 30% off · 12 months for the price of 10+2 months free · 码 WORKS | 16C/4G/40GNVMe | €38/年 | 待确认 | 0.83 |
+| LET | Hostishere | 节日促销 | 循环/永久 · 6 months free | 2C/6G/60GNVMe SSD / Ryzen 9 7950X3D | €3.49/月 | 待确认 | 1.00 |
+| LET | serverpoint.com | 补货 | 最高 36% off · double bandwidth | 6C / EPYC 7513, EPYC 7663 | $3.33/月 | 在售 | 0.67 |
+| LET | TNAHosting | 节日促销 | 循环/永久 · 最高 50% off · 码 SPOOKYHYB10/SPOOKYRYZEN50/WORKS | 2C/4G/80GNVMe SSD / Ryzen 9 5900X | $10/年 | 疑似售罄 | 1.00 |
+| LET | GreenCloud is Turning 13! | 周年庆 | 循环/永久 | 13G/113GNVMe | — | 待确认 | 0.50 |
+| LET | tpoll | 常规促销 | 循环/永久 · 码 HAS/OCTRYZI92GB | 0G/50GNVME | $16.99/年 | 待确认 | 0.67 |
+| LET | DartNode | 黑五 | 循环/永久 · 最高 30% off · 12 months free · 码 GOOD | 1C/32G/1024GNVMe / Xeon E5-2650 | $399/年 | 待确认(较旧) | 1.00 |
+| LET | nolimitcloud.eu | 常规促销 | 循环/永久 · 最高 25% off · 码 LETB25/LETS2026 | 5C/16G/500GHDD / EPYC 7443P, EPYC 7543P | €12.99/年 | 待确认 | 1.00 |
+| LET | HostDZire | 黑五 | — | 12C/128G/8192GSATA | €18/年 | 待确认 | 0.67 |
+| LET | HyperHost Halloween | 节日促销 | 循环/永久 · 最高 50% off · 码 HALLOWEEN50 | 8G | £9/年 | 待确认 | 0.50 |
+| LET | extravm.com | 常规促销 | — | 2C/5G/75GNVMe | $6.7/月 | 待确认 | 0.67 |
+| LET | Halloween | 节日促销 | 循环/永久 · 最高 50% off · 码 LETYEARLY/LOWENDTALKVPS | 2C/65GSSD / Xeon E5-2690 | $25.5/年 | 售罄 | 0.83 |
 | LET | HostNamaste | 常规促销 | — | 4C/256G/140GNVMe / EPYC 7402P | $17.99/年 | 待确认 | 0.83 |
 | LET | Halloween Specials at ST-Hosting! | 节日促销 | 循环/永久 | 8G/50GNVMe | €4.44/月 | 待确认 | 0.67 |
-| LET | Caliber Node | 节日促销 | 码 CHECK/TREAT26 | 2C/2G/30G | $8/年 | 待确认 | 0.83 |
-| LET | servitro.com | 常规促销 | 码 BFJH1873LA | 1C/4G/25GSSD / EPYC 7443P, Ryzen 9 9950X | $12/年 | 待确认 | 1.00 |
-| LET | HyperHost Halloween | 节日促销 | 循环/永久 · 最高 50% off · 码 HALLOWEEN50 | 8G | £9/年 | 待确认 | 0.50 |
 | LET | aspirehosting.net | 节日促销 | 最高 55% off · 1 month free+2 months free | 8C/32G/300GSSD / EPYC 7662 | $2/月 | 在售 | 1.00 |
-| LET | GreenCloud is Turning 13! | 周年庆 | 循环/永久 | 13G/113GNVMe | — | 待确认 | 0.50 |
-| LET | DeluxHost.net | 补货 | — | 1C/1G/80GNVMe SSD / EPYC 7551P, Ryzen 9 7950X | — | 在售 | 0.67 |
 | LET | Halloween VPS @ Frankfurt Equinix | 节日促销 | 循环/永久 | 3C/10G/100G | €31/年 | 在售 | 0.83 |
-| LET | HostDZire | 黑五 | — | 12C/128G/8192GSATA | €18/年 | 待确认 | 0.67 |
-| LET | DartNode | 黑五 | 循环/永久 · 最高 30% off · 12 months free · 码 GOOD | 1C/32G/1024GNVMe / Xeon E5-2650 | $399/年 | 待确认(较旧) | 1.00 |
-| LET | Servury Blackbox | 常规促销 | 最高 20% off · 码 LET20 | 50GNVMe | $8/月 | 待确认 | 0.50 |
 | LET | ServersCamp: Database-Tuned Cloud | 常规帖 | — | 2C/4G | — | 待确认(较旧) | 0.33 |
-| LET | serverpoint.com | 补货 | 最高 36% off · double bandwidth | 6C / EPYC 7513, EPYC 7663 | $3.33/月 | 在售 | 0.67 |
-| LET | tpoll | 常规促销 | 循环/永久 · 码 HAS/OCTRYZI92GB | 0G/50GNVME | $16.99/年 | 待确认 | 0.67 |
-| LET | extravm.com | 常规促销 | — | 2C/5G/75GNVMe | $6.7/月 | 待确认 | 0.67 |
 | LET | EthernetServers | 常规促销 | free upgrade | — | $2.25/月 | 待确认(较旧) | 0.33 |
-| LET | servers_guru | 常规促销 | 循环/永久 · 最高 30% off · 12 months for the price of 10+2 months free · 码 WORKS | 16C/4G/40GNVMe | €38/年 | 待确认 | 0.83 |
 | LET | leapswitch | 常规促销 | — | 192G/1966GNVMe | — | 待确认 | 0.33 |
 | LET | HostNoc | 常规促销 | 循环/永久 · 最高 10% off · 码 LET10 | 128G/2048GHDD / Ryzen 7 1700X, Xeon E5-1650 | $15.95/月 | 待确认 | 0.83 |
 | LET | ServerHost September Savings | 上新/回归 | 码 LET16GBSEPT26/LET2GBSEPT26/LET32GBSEPT26 | 16G/480GNVMe | $16.99/年 | 待确认(较旧) | 0.67 |
@@ -29,7 +32,6 @@
 | LET | Caliber Node | 常规促销 | — | 15GSSD | $10/年 | 待确认(较旧) | 0.33 |
 | LET | NameBig | 节日促销 | 循环/永久 · double storage | 15G | £3.37/年 | 待确认 | 0.50 |
 | LET | SmokyHosts | 常规促销 | 循环/永久 · 最高 50% off · 码 PROMO50VPS/STORVPS1 | 2C/2G/5120GHDD | $35.95/年 | 在售 | 0.83 |
-| LET | nolimitcloud.eu | 常规促销 | 循环/永久 · 最高 25% off · 码 LETB25/LETS2026 | 5C/16G/500GHDD / EPYC 7443P, EPYC 7543P | €12.99/年 | 待确认 | 1.00 |
 | LET | LayerOne VPS Hosting | 常规促销 | 最高 30% off | — | $20.16/年 | 待确认 | 0.33 |
 | LET | ColoCrossing | 补货 | 码 FLASH20OFF/FLASHLAE3/SUMMER20OFF | 128G/1024GSSD / Ryzen 9 7950X, Xeon E5-2699v4 | $25/月 | 补货中 | 0.83 |
 | LET | HostAddon VPS | 常规促销 | 最高 25% off · 码 LET25 | Ryzen 9 7950X | $2.99/月 | 售罄 | 0.50 |
@@ -71,8 +73,6 @@
 | LET | SmokyHosts | 常规促销 | 循环/永久 · free upgrade | 2C/10G/80GSSD | $100/年 | 待确认 | 0.83 |
 | LET | NUXOA | 常规帖 | 循环/永久 | 16C/256G/1024GNVMe / Ryzen 7 5700X, Ryzen 7 9700X | €95/月 | 待确认 | 1.00 |
 | LET | Linceris.com | 常规促销 | 循环/永久 | 2C/75GNVMe / Ryzen 9 5900X | €3.99/月 | 在售 | 0.83 |
-| LET | More Capacity + New Features | 常规促销 | — | 2C/8G | $15.12/年 | 待确认(较旧) | 0.50 |
-| LET | PrivateByte | 常规促销 | 最高 25% off · 码 LET25 | EPYC 7551P | $57.5/年 | 待确认 | 0.50 |
 | LEB | Mango Mail Halloween | 节日促销 | — | — | $3.5/月 | 待确认 | 0.17 |
 | LEB | FlipperHost | 常规帖 | — | 7C/256G/2048GSSD / Xeon E5-2680 | $29.99/年 | 待确认 | 0.83 |
 | LEB | cloudnium.net | 上新/回归 | 码 EARLYBIRD1U/EARLYBIRD2U/EARLYBIRD4U | — | $29/月 | 待确认 | 0.33 |
